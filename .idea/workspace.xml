@@ -25,7 +25,7 @@
       <file leaf-file-name="Reader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/andela/gkuti/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.9130435">
+            <state vertical-scroll-proportion="0.3326087">
               <caret line="39" column="63" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -512,14 +512,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/andela/gkuti/Reader.java</url>
-          <line>119</line>
-          <properties class="com.andela.gkuti.Reader" method="getStudentDebtAverage" />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
@@ -654,9 +646,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Result.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/andela/gkuti/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9130435">
+        <state vertical-scroll-proportion="0.3326087">
           <caret line="39" column="63" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
